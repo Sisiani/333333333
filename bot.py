@@ -23,9 +23,9 @@ TOKEN = os.environ.get("TOKEN", "7976882338:AAEUBtxPwiT6OUPBvzkaxpFgYzmT0yzD6Ps"
 # Numeric admin id
 ADMIN_ID = int(os.environ.get("ADMIN_ID", "7374971382"))
 # Channel username or invite (with @ or without)
-CHANNEL_USERNAME = os.environ.get("CHANNEL_USERNAME", "@NEURANAcademy")
+CHANNEL_USERNAME = os.environ.get("CHANNEL_USERNAME", "@flamingofilm1")
 # Channel link for join button
-CHANNEL_LINK = os.environ.get("CHANNEL_LINK", "https://t.me/NEURANAcademy")
+CHANNEL_LINK = os.environ.get("CHANNEL_LINK", "https://t.me/flamingofilm1")
 
 USERS_FILE = "users.json"
 
